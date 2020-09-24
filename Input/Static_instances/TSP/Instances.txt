@@ -1,0 +1,22 @@
+"Adapting Genetic Algorithms for Combinatorial Optimization Problems in Dynamic Environments" - A Younes et al (2008)
+	- berlin52
+	- kroA100
+	- pcb442
+"Multi-colony Ant Algorithms for the DTSP" - M Mavrovouniotis (2014)
+"An ACO based memetic algorithm for the DTSP - M Mavrovouniotis (2015)
+	- kroA100
+	- kroA150
+	- kroA200
+"Ant Colony Optimization With Local Search for Dynamic Traveling Salesman Problems" - M Mavrovouniotis (2017)
+	- berlin52.atsp
+	- d198.atsp
+	- ei1101.atsp
+	- lin318.atsp
+	- pcb442.atsp
+	- pcb442.atsp
+	- rat783.atsp
+	- u574.atsp
+"Ant Colony optimization algorithms for dynamic optimization: a case study of the DTSP" - M Mavrovouniotis
+	- kroA200
+	- rd400
+	- u1060

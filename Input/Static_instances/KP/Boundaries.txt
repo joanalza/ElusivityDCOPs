@@ -1,0 +1,13 @@
+A random search over 10,000,000 generations has been applied for the following instances:
+
+joanA100:
+	- Lower boundary: ~0
+	- Upper boundary: 1786
+	[0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+joanB100:
+	- Lower boundary: ~0
+	- Upper boundary: 1700
+
+joanC100:
+	- Lower boundary: ~0
+	- Upper boundary:
